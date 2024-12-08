@@ -1,0 +1,21 @@
+persediaan_id,produk_nama,jumlah_stok,lokasi_gudang,tanggal_pembaruan
+1,Produk A,50,Gudang 1,2023-01-20
+2,Produk B,120,Gudang 2,2023-02-15
+3,Produk C,70,Gudang 1,2023-03-25
+4,Produk D,80,Gudang 3,2023-04-10
+5,Produk E,90,Gudang 2,2023-05-20
+6,Produk F,40,Gudang 1,2023-06-15
+7,Produk G,60,Gudang 3,2023-07-10
+8,Produk H,130,Gudang 2,2023-08-20
+9,Produk I,110,Gudang 1,2023-09-15
+10,Produk J,90,Gudang 2,2023-10-10
+11,Produk K,70,Gudang 3,2023-11-20
+12,Produk L,100,Gudang 1,2023-12-15
+13,Produk M,95,Gudang 2,2024-01-10
+14,Produk N,85,Gudang 3,2024-02-20
+15,Produk O,105,Gudang 1,2024-03-15
+16,Produk P,115,Gudang 2,2024-04-10
+17,Produk Q,125,Gudang 3,2024-05-20
+18,Produk R,135,Gudang 1,2024-06-15
+19,Produk S,75,Gudang 2,2024-07-10
+20,Produk T,95,Gudang 3,2024-08-20
